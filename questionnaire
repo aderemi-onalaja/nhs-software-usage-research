@@ -1,0 +1,74 @@
+# NHS Software Usage Questionnaire
+
+This short-form questionnaire is designed to capture how software is used across NHS trusts and departments.  
+It will be distributed via **Google Forms** and results will feed into a BI dashboard for analysis.  
+
+---
+
+## Section 1: Role & Department
+1. What is your role?  
+   - Nurse  
+   - Doctor  
+   - Administrative staff  
+   - Manager / Decision-maker  
+   - Other  
+
+2. Which department and NHS trust do you work in?  
+   - Free text  
+
+---
+
+## Section 2: Software Usage
+3. What software tools do you use daily in your role?  
+   - Free text / multi-select (e.g., EHR, scheduling, payroll, analytics, communication tools)  
+
+4. How frequently do you use these tools?  
+   - Daily  
+   - Weekly  
+   - Monthly  
+   - Rarely  
+
+5. What are the biggest challenges you face with these tools?  
+   - Cost  
+   - Onboarding/training  
+   - Poor integrations  
+   - Usability  
+   - Slow performance  
+   - Limited features  
+
+---
+
+## Section 3: Costs & Onboarding
+6. How long did it take you to feel confident using this software?  
+   - 1 day  
+   - 1 week  
+   - 1 month  
+   - Still not confident  
+
+7. In your view, are the costs of the tools justified by the value they bring?  
+   - Yes  
+   - No  
+   - Unsure  
+
+---
+
+## Section 4: Integrations & Improvements
+8. How well does the software integrate with other systems you use?  
+   - Very well  
+   - Somewhat well  
+   - Poorly  
+   - Not at all  
+
+9. If you could change one thing about the tools, what would it be?  
+   - Free text  
+
+10. What alternative tools (if any) would you recommend?  
+    - Free text  
+
+---
+
+📊 **Next Steps**:  
+Responses will be collected, categorised by tool function (EHR, scheduling, admin, analytics, communication), and analysed across NHS trusts to identify:  
+- Variation in software stacks  
+- Crossover/duplication between tools  
+- Opportunities for consolidation and AI implementation  
