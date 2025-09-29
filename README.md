@@ -1,4 +1,4 @@
-# NHS vs Private Healthcare Software Usage Research
+# NHS Software Usage Research
 
 This repository documents a case study project by **Aderemi Onalaja**.
 
