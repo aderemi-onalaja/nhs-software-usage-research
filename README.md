@@ -1,6 +1,7 @@
 # NHS vs Private Healthcare Software Usage Research
 
-This repository documents a case study project by **Aderemi Onalaja**.  
+This repository documents a case study project by **Aderemi Onalaja**.
+
 The research explores how software is currently used across NHS departments compared to private healthcare, with a focus on:
 
 - Tools in use
@@ -31,22 +32,12 @@ See full draft: [questionnaire.md](./questionnaire.md)
 
 ---
 
-## 🔍 Alternative Tools Matrix
-A sample matrix comparing NHS and private healthcare software:
-
-| Tool        | Cost (£) | Onboarding Time | Features (1–5) | Integrations (1–5) | Usability (1–5) | Notes |
-|-------------|----------|-----------------|----------------|---------------------|-----------------|-------|
-| **Epic**    | High (£££) | 3–6 months       | 5              | 5                   | 3               | Widely used in NHS trusts, highly integrated but expensive and complex to learn. |
-| **Cerner**  | High (£££) | 3–6 months       | 4              | 4                   | 3               | Strong EHR platform, big presence in NHS and US private sector. |
-| **EMIS**    | Medium (££) | 1–3 months       | 3              | 3                   | 4               | Common in GP practices across the NHS. |
-| **Athenahealth** | Medium (££) | 1–2 months | 4              | 4                   | 5               | Cloud-based, widely used in private US sector. |
-
----
-
 ## 🎯 Learning Outcomes
-This project demonstrates:
-- Research design & survey methodology
-- Data collection & BI integration
-- Dashboard building (Google Data Studio / Power BI)
-- Comparative tool analysis using a cost-feature matrix
-- Real-world relevance for healthcare operations
+This project demonstrates:  
+- Designing a methodology to assess NHS software usage across trusts and departments.  
+- Collecting and analysing survey data from multiple roles (nurses, doctors, admin, managers).  
+- Categorising tools by function (EHR, scheduling, admin, analytics, communication).  
+- Understanding why software stacks vary across NHS trusts (procurement, legacy systems, budgets, training gaps).  
+- Identifying opportunities to reduce duplication and streamline software usage.  
+- Highlighting areas where AI solutions could be deployed to improve efficiency and outcomes.  
+- Providing a contextual comparison with private healthcare to benchmark NHS adoption.  
