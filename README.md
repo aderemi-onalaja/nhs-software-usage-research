@@ -17,6 +17,8 @@ The research explores how software is currently used across NHS departments comp
 You can read the full write-up here:  
 [Download the PDF](./software_usage_case_study.pdf)
 
+./software-usage-in-nhs-case-study.pdf
+
 ---
 
 ## 📝 Questionnaire (for Google Forms)
