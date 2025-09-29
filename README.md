@@ -15,7 +15,7 @@ The research explores how software is currently used across NHS departments comp
 
 ## 📄 Case Study PDF
 You can read the full write-up here:  
-[Download the PDF](./software-usage-in-nhs-case_study.pdf)
+[Download the PDF](./software-usage-in-nhs-case-study.pdf)
 
 
 ---
